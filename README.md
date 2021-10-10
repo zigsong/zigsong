@@ -1,13 +1,14 @@
 <div align="center">
   
 ### 👋 Hi there 
-I'm Jieun Song, a frontend developer 
+I'm Jieun Song, frontend developer 
 
 ### 📚 Studying
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 
 ### ☺️ Resume
-[visit here](https://www.notion.so/Jieun-Song-cfcc4f5da7214ac7bd8e9f47be6a19ec)
+👾 [zigsong.me](https://www.zigsong.me/) <br />
+✏️ [notion](https://billowy-pet-5ef.notion.site/Jieun-Song-cfcc4f5da7214ac7bd8e9f47be6a19ec)
 
 <!--
 **zigsong/zigsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
