@@ -8,7 +8,6 @@ I'm Jieun Song, frontend developer
 
 ### ☺️ Resume
 👾 [zigsong.me](https://www.zigsong.me/) <br />
-✏️ [notion](https://billowy-pet-5ef.notion.site/Jieun-Song-cfcc4f5da7214ac7bd8e9f47be6a19ec)
 
 <!--
 **zigsong/zigsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
